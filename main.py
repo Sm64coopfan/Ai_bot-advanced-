@@ -77,4 +77,4 @@ async def check(ctx):
 
 # Discord Bot Tokeninizi buraya girin
 
-bot.run("TOKEN")
+bot.run("TOKEN_İS_HERE")
