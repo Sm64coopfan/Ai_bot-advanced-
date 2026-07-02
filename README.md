@@ -1,12 +1,6 @@
 # Ai_bot-advanced-
 this is an advanced bot
 
-
-
-
-
-
-
 markdown# 3D Baskı Hata Algılama Sistemi (3D Printing Fail Detection)
 
 Bu proje, Teachable Machine veya benzeri platformlar kullanılarak eğitilmiş bir derin öğrenme (Keras/TensorFlow) modelini kullanarak 3D yazıcı baskı süreçlerini analiz eder. Görüntü işleme teknikleriyle baskıdaki hataları (spaghetti, katman kayması, tabandan ayrılma vb.) gerçek zamanlıya yakın tespit etmeyi amaçlar.
@@ -70,5 +64,4 @@ Durum Tespiti       : ❌ Baskıda hata algılandı!
 
 ## 🛠️ Geliştirme ve Katkıda Bulunma
 
-Bu temel script, bir döngü içerisine alınarak **OpenCV vasıtasıyla canlı web kamerası / IP kamera (OctoPrint/Mainsail yayınları)** beslemesiyle gerçek zamanlı bir izleme sistemine dönüştürülebilir. Hata algılandığında Telegram API veya yerel bir webhook üzerinden yazıcıyı durdurma sinyali eklenebilir.
-Kodu dikkatli kullanın.Bu dokümanı daha da özelleştirmek isterseniz bana şunları iletebilirsiniz:Bu kodu OctoPrint, Mainsail veya Klipper gibi bir arayüze entegre etmeyi düşünüyor musunuz?Projeyi açık kaynak (MIT, Apache vb.) bir lisansla mı paylaşacaksınız?
+
